@@ -1,0 +1,19 @@
+.wrapper{
+
+  margin: 0 auto;
+
+}
+
+.form_input{
+    padding-left: 40%;
+
+}
+
+input{
+    margin-top:10px;
+}
+
+button{
+
+  background-color: pink;
+}
